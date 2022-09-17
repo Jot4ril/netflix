@@ -3,6 +3,10 @@
   color: white;
   font-size: 14px;
 
+  &.scrolled {
+    background-color: var(--main-color);
+  }
+
   .container {
     width: 100%;
     padding: 0px 0px;
