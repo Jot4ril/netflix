@@ -31,7 +31,7 @@ export default function Navbar() {
           <span className="icon">KIDS</span>
           <Bell className="icon" />
           <img src={image} alt="" />
-          <div>
+          <div className="profile">
             <svg
               className="icon"
               xmlns="http://www.w3.org/2000/svg"
